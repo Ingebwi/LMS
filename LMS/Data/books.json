@@ -1,0 +1,82 @@
+[
+  {
+    "ISBN": "9781593279509",
+    "Title": "Eloquent JavaScript, Third Edition",
+    "Author": "Marijn Haverbeke",
+    "Year": 2018,
+    "Publisher": "No Starch Press",
+    "Language": "English",
+    "ImageLink": "images/eloquent-javascript.jpg",
+    "AvailableCopies": 5
+  },
+  {
+    "ISBN": "9781491943533",
+    "Title": "Practical Modern JavaScript",
+    "Author": "Nicolás Bevacqua",
+    "Year": 2017,
+    "Publisher": "O'Reilly Media",
+    "Language": "English",
+    "ImageLink": "images/practical-modern-javascript.jpg",
+    "AvailableCopies": 3
+  },
+  {
+    "ISBN": "9781593277574",
+    "Title": "Understanding ECMAScript 6",
+    "Author": "Nicholas C. Zakas",
+    "Year": 2016,
+    "Publisher": "No Starch Press",
+    "Language": "English",
+    "ImageLink": "images/understanding-ecmascript-6.jpg",
+    "AvailableCopies": 4
+  },
+  {
+    "ISBN": "9781449365035",
+    "Title": "Speaking JavaScript",
+    "Author": "Axel Rauschmayer",
+    "Year": 2014,
+    "Publisher": "O'Reilly Media",
+    "Language": "English",
+    "ImageLink": "images/speaking-javascript.jpg",
+    "AvailableCopies": 2
+  },
+  {
+    "ISBN": "9781449331818",
+    "Title": "Learning JavaScript Design Patterns",
+    "Author": "Addy Osmani",
+    "Year": 2012,
+    "Publisher": "O'Reilly Media",
+    "Language": "English",
+    "ImageLink": "images/learning-javascript-design-patterns.jpg",
+    "AvailableCopies": 1
+  },
+  {
+    "ISBN": "9798602477429",
+    "Title": "You Don't Know JS Yet",
+    "Author": "Kyle Simpson",
+    "Year": 2020,
+    "Publisher": "Independently published",
+    "Language": "English",
+    "ImageLink": "images/you-dont-know-js-yet.jpg",
+    "AvailableCopies": 6
+  },
+  {
+    "ISBN": "9781484200766",
+    "Title": "Pro Git",
+    "Author": "Scott Chacon and Ben Straub",
+    "Year": 2014,
+    "Publisher": "Apress; 2nd edition",
+    "Language": "English",
+    "ImageLink": "images/pro-git.jpg",
+    "AvailableCopies": 3
+  },
+  {
+    "ISBN": "9781484242216",
+    "Title": "Rethinking Productivity in Software Engineering",
+    "Author": "Caitlin Sadowski, Thomas Zimmermann",
+    "Year": 2019,
+    "Publisher": "Apress",
+    "Language": "English",
+    "ImageLink": "images/rethinking-productivity.jpg",
+    "AvailableCopies": 4
+  }
+]

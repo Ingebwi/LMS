@@ -1,14 +1,10 @@
-using LMS.Data;
 using Microsoft.EntityFrameworkCore;
-using LMS.Models.Books;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<BookContext>(opt =>
-    opt.UseInMemoryDatabase("BookList"));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
